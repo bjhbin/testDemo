@@ -23,7 +23,9 @@
     NSLog(@"追加一条");
     ///sdf
     
-    
+    UILabel *lable=[[UILabel alloc] initWithFrame:CGRectMake(0, 0, 0, 0)];
+    lable.tag=1888;
+    [self.view addSubview:lable];
     /// 测试冲突
     //来吧，我要干掉你就速速dddd
     //come on  haha  jsdkfjsdkfjasdklf

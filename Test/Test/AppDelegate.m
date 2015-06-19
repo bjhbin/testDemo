@@ -18,6 +18,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     //  ddddddddd
+    
+    ///jksdfkjsdfkjsd;fjk;skdfj;askdjf，操你妹的 
     return YES;
 }
 
